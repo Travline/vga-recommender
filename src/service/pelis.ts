@@ -37,7 +37,7 @@ export const movies: Movie[] = [
     "link_portada": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
   },
   {
-    "nombre": "Schindler's List",
+    "nombre": "Schindlers List",
     "generos": ["Biografia", "Drama", "Historia"],
     "director": ["Steven Spielberg"],
     "puntuacion": 8.9,
@@ -69,7 +69,7 @@ export const movies: Movie[] = [
     "generos": ["Accion", "Ciencia Ficcion"],
     "director": ["Lana Wachowski", "Lilly Wachowski"],
     "puntuacion": 8.7,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+    "link_portada": "https://www.themoviedb.org/t/p/original/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
   },
   {
     "nombre": "Goodfellas",
@@ -79,7 +79,7 @@ export const movies: Movie[] = [
     "link_portada": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg"
   },
   {
-    "nombre": "One Flew Over the Cuckoo's Nest",
+    "nombre": "One Flew Over the Cuckoos Nest",
     "generos": ["Drama"],
     "director": ["Milos Forman"],
     "puntuacion": 8.7,
@@ -90,7 +90,7 @@ export const movies: Movie[] = [
     "generos": ["Crimen", "Drama", "Misterio"],
     "director": ["David Fincher"],
     "puntuacion": 8.6,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/7/74/Seven1995poster.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg"
   },
   {
     "nombre": "Interstellar",
@@ -104,7 +104,7 @@ export const movies: Movie[] = [
     "generos": ["Animacion", "Aventura", "Fantasia"],
     "director": ["Hayao Miyazaki"],
     "puntuacion": 8.6,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/3/30/Spirited_Away_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "nombre": "The Silence of the Lambs",
@@ -118,28 +118,28 @@ export const movies: Movie[] = [
     "generos": ["Drama", "Guerra"],
     "director": ["Steven Spielberg"],
     "puntuacion": 8.6,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/a/a1/Saving_Private_Ryan_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "nombre": "Life Is Beautiful",
     "generos": ["Comedia", "Drama", "Romance"],
     "director": ["Roberto Benigni"],
     "puntuacion": 8.6,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/7/7c/Vita_e_bella.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_.jpg"
   },
   {
     "nombre": "The Green Mile",
     "generos": ["Crimen", "Drama", "Fantasia"],
     "director": ["Frank Darabont"],
     "puntuacion": 8.6,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/c/ce/Green_mile.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg"
   },
   {
     "nombre": "Parasite",
     "generos": ["Drama", "Thriller"],
     "director": ["Bong Joon Ho"],
     "puntuacion": 8.5,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg"
   },
   {
     "nombre": "Whiplash",
@@ -153,14 +153,14 @@ export const movies: Movie[] = [
     "generos": ["Accion", "Aventura", "Drama"],
     "director": ["Ridley Scott"],
     "puntuacion": 8.5,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_ver3.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Gladiator_%282000_film_poster%29.png/250px-Gladiator_%282000_film_poster%29.png"
   },
   {
     "nombre": "The Departed",
     "generos": ["Crimen", "Drama", "Thriller"],
     "director": ["Martin Scorsese"],
     "puntuacion": 8.5,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Departed_戲院海報.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg"
   },
   {
     "nombre": "The Prestige",
@@ -174,7 +174,7 @@ export const movies: Movie[] = [
     "generos": ["Terror", "Mystery", "Thriller"],
     "director": ["Alfred Hitchcock"],
     "puntuacion": 8.5,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/b/b9/Psycho_%281960%29_theatrical_poster.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/960px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg"
   },
   {
     "nombre": "The Lion King",
@@ -202,14 +202,14 @@ export const movies: Movie[] = [
     "generos": ["Animacion", "Aventura", "Familia"],
     "director": ["Andrew Stanton"],
     "puntuacion": 8.4,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg"
+    "link_portada": "https://static.wikia.nocookie.net/doblaje/images/5/55/Walle-poster.jpg/revision/latest?cb=20201004143700&path-prefix=es"
   },
   {
     "nombre": "The Shining",
     "generos": ["Terror", "Drama"],
     "director": ["Stanley Kubrick"],
     "puntuacion": 8.4,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Shining_poster.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg/250px-The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg"
   },
   {
     "nombre": "Alien",
@@ -223,7 +223,7 @@ export const movies: Movie[] = [
     "generos": ["Drama", "Film-Noir"],
     "director": ["Billy Wilder"],
     "puntuacion": 8.4,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/b/ba/Sunset_Boulevard_%281950_poster%29.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sunset_Boulevard_%281950_poster%29.jpg"
   },
   {
     "nombre": "Inglourious Basterds",
@@ -237,28 +237,28 @@ export const movies: Movie[] = [
     "generos": ["Comedia", "Romance"],
     "director": ["Jean-Pierre Jeunet"],
     "puntuacion": 8.3,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/f/f6/Amelie_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/S/pv-target-images/1978eb7eb2d5b405d8c51dbd16374c79a82da288e66ec0bc43b510adc65cfc3c.jpg"
   },
   {
     "nombre": "Reservoir Dogs",
     "generos": ["Crimen", "Thriller"],
     "director": ["Quentin Tarantino"],
     "puntuacion": 8.3,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/f/f1/Reservoir_dogs_ver1.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "nombre": "A Clockwork Orange",
     "generos": ["Crimen", "Ciencia Ficcion", "Drama"],
     "director": ["Stanley Kubrick"],
     "puntuacion": 8.3,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/a/a2/A_Clockwork_Orange_%281971%29_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "nombre": "Scarface",
     "generos": ["Crimen", "Drama"],
     "director": ["Brian De Palma"],
     "puntuacion": 8.3,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/7/71/Scarface_poster.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/en/7/71/Scarface_-_1983_film.jpg"
   },
   {
     "nombre": "Taxi Driver",
@@ -272,7 +272,7 @@ export const movies: Movie[] = [
     "generos": ["Animacion", "Aventura", "Fantasia"],
     "director": ["Hayao Miyazaki"],
     "puntuacion": 8.2,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/8/8c/Princess_Mononoke_Ashitaka_and_San.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BZTcyN2Y0MDYtMGI1NC00MWQ1LWFhZGMtN2U4NTcxZGYyNjljXkEyXkFqcGc@._V1_.jpg"
   },
   {
     "nombre": "The Truman Show",
@@ -289,11 +289,11 @@ export const movies: Movie[] = [
     "link_portada": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg"
   },
   {
-    "nombre": "Kill Bill: Vol. 1",
+    "nombre": "Kill Bill Vol 1",
     "generos": ["Accion", "Crimen", "Thriller"],
     "director": ["Quentin Tarantino"],
     "puntuacion": 8.2,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/c/cf/Kill_Bill_Volume_1_theatrical_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BOGZjM2FmNDUtYzI5OC00N2I2LWI3M2UtM2RiMGFmYzZkM2I1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "nombre": "Shutter Island",
@@ -314,21 +314,21 @@ export const movies: Movie[] = [
     "generos": ["Terror", "Ciencia Ficcion", "Misterio"],
     "director": ["John Carpenter"],
     "puntuacion": 8.2,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Thing_%281982%29_theatrical_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_.jpg"
   },
   {
     "nombre": "Blade Runner",
     "generos": ["Accion", "Ciencia Ficcion", "Thriller"],
     "director": ["Ridley Scott"],
     "puntuacion": 8.1,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/5/53/Blade_Runner_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg"
   },
   {
     "nombre": "The Grand Budapest Hotel",
     "generos": ["Comedia", "Drama"],
     "director": ["Wes Anderson"],
     "puntuacion": 8.1,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Grand_Budapest_Hotel_poster.jpg"
+    "link_portada": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png"
   },
   {
     "nombre": "Gone Girl",
@@ -338,7 +338,7 @@ export const movies: Movie[] = [
     "link_portada": "https://upload.wikimedia.org/wikipedia/en/0/05/Gone_Girl_Poster.jpg"
   },
   {
-    "nombre": "Mad Max: Fury Road",
+    "nombre": "Mad Max Fury Road",
     "generos": ["Accion", "Aventura", "Ciencia Ficcion"],
     "director": ["George Miller"],
     "puntuacion": 8.1,
@@ -349,6 +349,6 @@ export const movies: Movie[] = [
     "generos": ["Biografia", "Crimen", "Drama"],
     "director": ["Steven Spielberg"],
     "puntuacion": 8.1,
-    "link_portada": "https://upload.wikimedia.org/wikipedia/en/4/4d/Catch_Me_If_You_Can_2002_movie_poster.jpg"
+    "link_portada": "https://m.media-amazon.com/images/M/MV5BM2FjZTU2ZTYtNTgzNi00MTlmLWE3N2UtZGRiYmE5ZDVmMmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   }
 ]
