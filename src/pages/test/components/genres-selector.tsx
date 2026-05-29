@@ -1,13 +1,11 @@
 import { useEffect, useState } from "react"
 import { getAllGenres } from "../../../service/MovieRepository"
 import { TestGenreCard } from "./test-genre-card"
-import { useTestStore } from "../hooks/TestStore"
 import { Link } from "react-router"
 
 export const GenresSelector = () => {
   const [allGenres, setAllGenres] = useState([""])
   const [loadingGenres, setLoadingGenres] = useState(true)
-  const { genres } = useTestStore()
 
   useEffect(() => {
     getAllGenres().then(result => {

@@ -3,7 +3,7 @@ import { useTestStore } from "../hooks/TestStore"
 import { TestMovieSlider } from "./test-movie-slider"
 
 export const MovieSelector = () => {
-  const { genres, movies } = useTestStore()
+  const { genres } = useTestStore()
 
   if (genres === null) {
     return <Navigate to="/test" />
